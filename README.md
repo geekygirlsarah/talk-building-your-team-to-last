@@ -10,6 +10,7 @@ This talk will cover onboarding and mentoring junior developers successfully. We
 Date | Venue
 -----|------
 2016-05-19 | Nebraska.Code() conference
+2016-06-23 | Kansas City Developer Conference
 
 ##Contact
 I'd love to answer any questions you have about my session. The easiest method to contact me is by Twitter: [@geekygirlsarah](https://www.twitter.com/geekygirlsarah). 
