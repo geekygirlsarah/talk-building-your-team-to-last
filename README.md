@@ -2,10 +2,14 @@
 
 ## Abstract
 
-Junior developers are often billed as _The Answer_ to the talent shortage in tech and the chronic homogeneity of the tech industry. Hiring a junior developer, however, is the _start_ and not the end of this process.
+Hiring and onboarding new team members is an expensive and risky process. It's crucial to hire people who mesh well with the existing team and get them up to speed in a timely manner. Balancing this while minimizing the initial impact on productivity is often a challenge for even the most experienced lead developer.
+This talk will cover some tips on building your successful team. We'll discuss:
 
-This talk will cover onboarding and mentoring junior developers successfully. We’ll discuss the benefits of bringing junior developers onto an established team. We’ll also show how senior AND junior developers can benefit by working together during the onboarding process. Some patterns of ineffective mentoring and why they are harmful to the team will be discussed. By the end, you’ll see how your whole team will ultimately benefit from these mentoring strategies.
+- How to choose the right types of people to add to your team.
+- How to onboard and mentor your new team members, including patterns of ineffective mentoring and why they're harmful to the team.
+- How everyone can benefit from bringing on junior developers and interns the right way.
 
+By the end, you'll see how your whole team will benefit from these strategies.
 
 ## Version History:
 
