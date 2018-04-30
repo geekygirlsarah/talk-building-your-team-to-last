@@ -1,4 +1,4 @@
-# Building Your Team to Last: Successful Onboarding and Mentoring Practices
+# Building Your Team to Last
 
 ## Abstract
 
@@ -9,10 +9,11 @@ This talk will cover onboarding and mentoring junior developers successfully. We
 
 ## Version History:
 
-Date | Venue
------|------
-2016-05-19 | Nebraska.Code() conference
-2016-06-23 | Kansas City Developer Conference
+Date | Version | Venue
+-----|---------|------
+2016-05-19 | 1.0 | Nebraska.Code() conference 2016
+2016-06-23 | 1.1 | Kansas City Developer Conference 2016
+2018-05-02 | 2.0 | deliver:Agile 2018
 
 ## Contact
 
