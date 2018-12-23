@@ -1,4 +1,4 @@
----
+---?image=template/bg/design.png
 @title[0 - Welcome]
 
 ## Building Your Team to Last
