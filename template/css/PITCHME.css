@@ -1,49 +1,46 @@
 @font-face {
-  font-family: 'Montserrat';
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
-  src: url('/assets/fonts/montserrat-normal.woff2') format('woff2'),
-       url('/assets/fonts/montserrat-normal.woff') format('woff');
+  src: url('/assets/fonts/open-sans-normal.woff2') format('woff2'),
+       url('/assets/fonts/open-sans-normal.woff') format('woff');
 }
-
 @font-face {
-  font-family: 'Montserrat Medium';
+  font-family: 'Open Sans Medium';
   font-style: normal;
   font-weight: 600;
-  src: url('/assets/fonts/montserrat-medium.woff2') format('woff2'),
-       url('/assets/fonts/montserrat-medium.woff') format('woff');
+  src: url('/assets/fonts/open-sans-medium.woff2') format('woff2'),
+       url('/assets/fonts/open-sans-medium.woff') format('woff');
 }
-
 @font-face {
-  font-family: 'Montserrat Heavy';
+  font-family: 'Open Sans Heavy';
   font-style: normal;
   font-weight: 900;
-  src: url('/assets/fonts/montserrat-heavy.woff2') format('woff2'),
-       url('/assets/fonts/montserrat-heavy.woff') format('woff');
+  src: url('/assets/fonts/open-sans-heavy.woff2') format('woff2'),
+       url('/assets/fonts/open-sans-heavy.woff') format('woff');
 }
 
-.montserrat,
-.montserrat * {
+.open-sans-heavy,
+.open-sans-heavy * {
   text-shadow: none !important;
   text-transform: none !important;
-  font-family: "Montserrat", sans-serif !important;
-}
-.montserrat-medium,
-.montserrat-medium * {
-  text-shadow: none !important;
-  text-transform: none !important;
-  font-family: "Montserrat Medium", sans-serif !important;
-}
-.montserrat-heavy,
-.montserrat-heavy * {
-  text-shadow: none !important;
-  text-transform: none !important;
-  font-family: "Montserrat Heavy", sans-serif !important;
+  font-family: "Open Sans Heavy", sans-serif !important;
 }
 
-/* @import url('template/fonts/MontserratRegular.css');
-@import url('../fonts/MontserratBold.css');
-@import url('MontserratLight.css'); */
+.open-sans-medium,
+.open-sans-medium * {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Open Sans Medium", sans-serif !important;
+}
+
+
+.open-sans,
+.open-sans * {
+  text-shadow: none !important;
+  text-transform: none !important;
+  font-family: "Open Sans", sans-serif !important;
+}
 
 /* Intro Template Styles */
 
@@ -300,43 +297,31 @@ div.docslink a:hover {
 
 /* Sarah's customizations for Wart theme from SlidesCarnival */
 
-.theme-yellow {
-  color: #ffc800;
-}
-
-.theme-orange {
-  color: #ffa400;
-}
-
-.theme-raspberry {
-  color: #f64646;
-}
-
-.theme-crimson {
-  color: #e8062f;
+.theme-teal {
+  color: #2a95b7;
 }
 
 /* body text */
 .reveal div {
-  font-family: 'Montserrat';
+  font-family: 'Open Sans';
   font-size: 30pt;
   font-weight: normal;
 }
 
 .reveal .slides h1 {
-  font-family: 'Montserrat Heavy';
+  /* font-family: 'Montserrat Heavy'; */
   font-size: 60pt;
   font-weight: bolder;
 }
 
 .reveal .slides h2 {
-  font-family: 'Montserrat Medium';
+  /* font-family: 'Montserrat Medium'; */
   font-size: 48pt;
   font-weight: bold;
 }
 
 .reveal .slides h3 {
-  font-family: 'Montserrat Medium';
+  /* font-family: 'Montserrat Medium'; */
   font-size: 36pt;
   font-weight: bold;
 }
