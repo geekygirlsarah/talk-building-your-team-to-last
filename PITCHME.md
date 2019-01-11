@@ -127,11 +127,31 @@ Or: how not to choose another grumpy cubemate that whines about your bad music
 
 ---?image=template/bg/design.png
 
+### @css[theme-teal](Choosing Good Team Members)
+
+## Look for diversity
+
+---?image=template/bg/design.png
+
+### @css[theme-teal](Diversity Traits:)
+
+* Age
+* Gender
+* Ethnicity
+* Experience levels (junior, mid, senior, higher)
+* Breadth of experience (expert vs. "jack of all trades")
+* Backgrounds (financial, location, etc.)
+
+---?image=template/bg/design.png
+
+### @css[theme-teal](Choosing Good Team Members)
+
+## Consider juniors or interns
+
+---?image=template/bg/design.png
 
 
----?image=template/bg/design.png
----?image=template/bg/design.png
----?image=template/bg/design.png
+
 ---?image=template/bg/design.png
 ---?image=template/bg/design.png
 ---?image=template/bg/design.png
